@@ -16,3 +16,12 @@
 
 **-E/S :** recoge nuevos datos desde la entrada, se muestran los resultados, se leen/guardan a disco, ...*
 
+## Tipos de codigo
+  
+  **-Código fuente:** archivo de texto legible escrito en un lenguaje de programación.
+  
+  **-Código objeto (intermedio):** archivo binario no ejecutable.
+   
+  **-Código ejecutable:** archivo binario ejecutable.
+
+

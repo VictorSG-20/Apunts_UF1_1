@@ -8,11 +8,11 @@
 
 ## Relación Hardware-Software
 
--Disco duro : almacena de forma permanente los archivos ejecutables y los archivos de datos.
+**-Disco duro :** almacena de forma permanente los archivos ejecutables y los archivos de datos.
 
--Memoria RAM : almacena de forma temporal el código binario de los archivos ejecutables y los archivos de datos necesarios.
+**-Memoria RAM :** almacena de forma temporal el código binario de los archivos ejecutables y los archivos de datos necesarios.
 
--CPU : lee y ejecuta instrucciones almacenadas en memoria RAM, así como los datos necesarios.
+**-CPU :** lee y ejecuta instrucciones almacenadas en memoria RAM, así como los datos necesarios.
 
--E/S : recoge nuevos datos desde la entrada, se muestran los resultados, se leen/guardan a disco, ...*
+**-E/S :** recoge nuevos datos desde la entrada, se muestran los resultados, se leen/guardan a disco, ...*
 

@@ -2,9 +2,9 @@
 ## Tipus de Software
  **1. De sistema (Sistema operativo, drivers)**
  
- **2. De aplicación (Suite ofimática, Navegador, Edición de imagen, ...)**
+ **2. De aplicación (Ofimática, Navegador, Edición de imagen, ...)**
  
- **3. De desarrollo (Editores, compiladores, interpretes, ...)**  
+ **3. De desarrollo (Editores, Compiladores, interpretes, ...)**  
 
 ## Relación Hardware-Software
 
@@ -18,10 +18,17 @@
 
 ## Tipos de codigo
   
-  **-Código fuente:** archivo de texto legible escrito en un lenguaje de programación.
-  
-  **-Código objeto (intermedio):** archivo binario no ejecutable.
+ **-Código fuente:** archivo de texto legible escrito en un lenguaje de programación.
+ 
+ **-Código objeto (intermedio):** archivo binario no ejecutable.
    
-  **-Código ejecutable:** archivo binario ejecutable.
+ **-Código ejecutable:** archivo binario ejecutable.
+
+## Desarrollo de software
+   **ANÁLISIS**  
+   **DISEÑO**  
+   **CODIFICACIÓN**  
+   **PRUEBAS**  
+   **MANTENIMIENTO**  
 
 

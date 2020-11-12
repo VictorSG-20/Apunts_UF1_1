@@ -4,8 +4,8 @@
 
 
 
- **1. De sistema (Sistema operativo, drivers)** 
- <img src="https://i.blogs.es/852403/win10/450_1000.jpg" width="150" height="100" />
+ **1. De sistema (Sistema operativo, drivers)**  
+ <img src="https://i.blogs.es/852403/win10/450_1000.jpg" width="100" height="50" /> <img src="https://microsofters.com/wp-content/uploads/2018/05/ubuntu-wallpapers-high-definition-wallpaper_103131892_39.jpg.webp" width="100" height="50" />
  **2. De aplicación (Ofimática, Navegador, Edición de imagen, ...)**
  
  **3. De desarrollo (Editores, Compiladores, interpretes, ...)**  

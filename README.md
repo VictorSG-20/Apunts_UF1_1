@@ -8,8 +8,8 @@
  <img src="https://i.blogs.es/852403/win10/450_1000.jpg" width="100" height="50" /> <img src="https://microsofters.com/wp-content/uploads/2018/05/ubuntu-wallpapers-high-definition-wallpaper_103131892_39.jpg.webp" width="100" height="50" /> <img src="https://i0.wp.com/unaaldia.hispasec.com/wp-content/uploads/2020/03/apple_ios-1.jpg?fit=697%2C365&ssl=1&w=640" width="100" height="50" />  
  **2. De aplicación (Ofimática, Navegador, Edición de imagen, ...)**  
  <img src="https://i.blogs.es/718117/googlechrome/840_560.jpg" width="100" height="50" /> <img src="https://www.cediformacio.com/wp-content/uploads/2016/03/word-1.jpg" width="100" height="50" /> <img src="https://blog.phonehouse.es/wp-content/uploads/2018/10/photoshop.png" width="100" height="50" />  
- **3. De desarrollo (Editores, Compiladores, interpretes, ...)**  
-
+ **3. De desarrollo (Editores, Compiladores, interpretes, ...)**    
+<img src="https://www.pcresumen.com/images/ide/netbeans.jpg" width="100" height="50" /> <img src="https://1.bp.blogspot.com/-ERPQ1Oig5ZM/V-84quisoTI/AAAAAAAAMxY/7gnKo8niCVwlSQZDaNidprZC7ZIspr9GgCLcB/s1600/eclipse_bckgr_logo_fc_lg.jpg" width="100" height="50" /> <img src="https://cdn.educba.com/academy/wp-content/uploads/2018/11/PLSQL-Interview-Questions.jpg" width="100" height="50" />
 ## Relación Hardware-Software
 
 **-Disco duro :** almacena de forma permanente los archivos ejecutables y los archivos de datos.

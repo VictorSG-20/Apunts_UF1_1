@@ -1,5 +1,9 @@
 # Apunts_UF1_1
-## Tipus de Software [![N|Solid](https://i.blogs.es/852403/win10/450_1000.jpg)](https://www.xataka.com/aplicaciones/windows-10-mejoras-iterativas-cuatro-anos-despues-mejor-windows-que-nunca-no-perfecto =200x150) 
+## Tipus de Software [![N|Solid](https://i.blogs.es/852403/win10/450_1000.jpg)](https://www.xataka.com/aplicaciones/windows-10-mejoras-iterativas-cuatro-anos-despues-mejor-windows-que-nunca-no-perfecto)
+
+<img src="https://i.blogs.es/852403/win10/450_1000.jpg" width="100" height="100" />
+
+
  **1. De sistema (Sistema operativo, drivers)**
  
  **2. De aplicación (Ofimática, Navegador, Edición de imagen, ...)**

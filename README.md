@@ -5,7 +5,7 @@
 
 
  **1. De sistema (Sistema operativo, drivers)**  
- <img src="https://i.blogs.es/852403/win10/450_1000.jpg" width="100" height="50" /> <img src="https://microsofters.com/wp-content/uploads/2018/05/ubuntu-wallpapers-high-definition-wallpaper_103131892_39.jpg.webp" width="100" height="50" />
+ <img src="https://i.blogs.es/852403/win10/450_1000.jpg" width="100" height="50" /> <img src="https://microsofters.com/wp-content/uploads/2018/05/ubuntu-wallpapers-high-definition-wallpaper_103131892_39.jpg.webp" width="100" height="50" /> <img src="https://i0.wp.com/unaaldia.hispasec.com/wp-content/uploads/2020/03/apple_ios-1.jpg?fit=697%2C365&ssl=1&w=640" width="100" height="50" />
  **2. De aplicación (Ofimática, Navegador, Edición de imagen, ...)**
  
  **3. De desarrollo (Editores, Compiladores, interpretes, ...)**  

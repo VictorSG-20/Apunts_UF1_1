@@ -1,5 +1,5 @@
 # Apunts_UF1_1
-## Tipus de Software
+## Tipus de Software [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
  **1. De sistema (Sistema operativo, drivers)**
  
  **2. De aplicación (Ofimática, Navegador, Edición de imagen, ...)**

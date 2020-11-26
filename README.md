@@ -39,7 +39,7 @@ Es determina i defineix clarament les necessitats del client i s'especifica els 
 ## Diseny
 Es descompon i organitza el sistema en elements components que poden ser desenvolupats per separat.
 S'especifica la interrelació i funcionalitat dels elements components.
-
-   
+## Codificació 
+S'escriu el codi font de cada component.
 
 

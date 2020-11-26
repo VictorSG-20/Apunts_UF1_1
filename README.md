@@ -49,6 +49,12 @@ El principal objectiu de les proves ha de ser aconseguir que el programa funcion
     **-Perfectiu:** es millora la funcionalitat.  
     **-Evolutiu:** s'afegeix funcionalitats noves.  
     **-Adaptatiu:** s'adapta a nous entorns.   
-
-
+## Models de desenvolupament de programari
+-Models clàssics (predictius)  
+ .Model en cascada  
+ .Model en V  
+-Model de construcció de prototips  
+ .M-odels evolutius o incrementals  
+ .Model en espiral (iteratius)  
+ .Metodologies àgils (adaptatius)  
 

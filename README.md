@@ -35,7 +35,10 @@
    **PRUEBAS**  
    **MANTENIMIENTO**  
 ## Analisis
-
+Es determina i defineix clarament les necessitats del client i s'especifica els requisits que ha de complir el programari a desenvolupar.
+## Diseny
+Es descompon i organitza el sistema en elements components que poden ser desenvolupats per separat.
+S'especifica la interrelació i funcionalitat dels elements components.
 
    
 

@@ -41,5 +41,14 @@ Es descompon i organitza el sistema en elements components que poden ser desenvo
 S'especifica la interrelació i funcionalitat dels elements components.
 ## Codificació 
 S'escriu el codi font de cada component.
+## Proves
+El principal objectiu de les proves ha de ser aconseguir que el programa funcioni incorrectament i que es descobreixin defectes.
+## Manteniment
+**Tipus de manteniment:**  
+    **-Correctiu:** es corregeixen defectes.  
+    **-Perfectiu:** es millora la funcionalitat.  
+    **-Evolutiu:** s'afegeix funcionalitats noves.  
+    **-Adaptatiu:** s'adapta a nous entorns.   
+
 
 

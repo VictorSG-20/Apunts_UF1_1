@@ -76,5 +76,14 @@ Les metodologies més conegudes són:
 ## Llenguatges de programació  
 Per obtenir codi binari executable tenim dues opcions compilar o interpretar.
   Compilar: tranformar el codi en un arxiu binari llegible per la maquina. adventatges = més eficient  
-  Interpretar: Anar executant el codi dun fitxer mentre anem escribint. adventatges = més rapid de comprobar
+  Interpretar: Anar executant el codi dun fitxer mentre anem escribint. adventatges = més rapid de comprobar    
+ ## Tipus   
+ Segons la forma en què operen:  
+  Declaratius: indiquem el resultat a obtenir sense especificar els pas  
+ Imperatius: indiquem els passos a seguir per obtenir un resultat.  
+## Tipus segons el nivell d'abstracció  
+-Baix nivell(ensamblador)    
+-Mig nivell(c)    
+-Alt nivell (java)  
+
   

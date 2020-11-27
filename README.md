@@ -85,5 +85,8 @@ Per obtenir codi binari executable tenim dues opcions compilar o interpretar.
 -Baix nivell(ensamblador)    
 -Mig nivell(c)    
 -Alt nivell (java)  
+## Historia    
+<img src="http://jamj2000.github.io/entornosdesarrollo/1/assets/simple-lang-tree.png" width="300" height="300" />   
+
 
   

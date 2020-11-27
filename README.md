@@ -57,5 +57,7 @@ El principal objectiu de les proves ha de ser aconseguir que el programa funcion
  .M-odels evolutius o incrementals  
  .Model en espiral (iteratius)  
  .Metodologies àgils (adaptatius)  
-**Metodè de cascada**  
- <img src="http://jamj2000.github.io/entornosdesarrollo/1/assets/cascada.png" width="500" height="250" />
+**Metodè de cascada**   
+ <img src="http://jamj2000.github.io/entornosdesarrollo/1/assets/cascada.png" width="500" height="250" />    
+ **Metodè en V**  
+ <img src="http://jamj2000.github.io/entornosdesarrollo/1/assets/v.png" width="500" height="250" />

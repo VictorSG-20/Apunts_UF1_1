@@ -62,4 +62,6 @@ El principal objectiu de les proves ha de ser aconseguir que el programa funcion
  **Metodè en V**  
  <img src="http://jamj2000.github.io/entornosdesarrollo/1/assets/v.png" width="500" height="250" />  
  **Prototips**  
- <img src="http://jamj2000.github.io/entornosdesarrollo/1/assets/prototipos.png" width="300" height="300" />  
+ <img src="http://jamj2000.github.io/entornosdesarrollo/1/assets/prototipos.png" width="300" height="300" />    
+**Metodè en espiral**   
+<img src="http://jamj2000.github.io/entornosdesarrollo/1/assets/espiral.png" width="300" height="300" /> 

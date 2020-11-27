@@ -64,5 +64,12 @@ El principal objectiu de les proves ha de ser aconseguir que el programa funcion
  **Prototips**  
  <img src="http://jamj2000.github.io/entornosdesarrollo/1/assets/prototipos.png" width="300" height="300" />    
 **Metodè en espiral**   
-<img src="http://jamj2000.github.io/entornosdesarrollo/1/assets/espiral.png" width="300" height="300" /> 
-**Metodologias agils**
+<img src="http://jamj2000.github.io/entornosdesarrollo/1/assets/espiral.png" width="300" height="300" />   
+**Metodologias agils**  
+Són mètodes d'enginyeria de programari basats en el desenvolupament iteratiu i incremental.
+Els requisits i solucions evolucionen amb el temps segons la necessitat de el projecte.
+El treball és realitzat mitjançant la col·laboració d'equips auto-organitzats i multidisciplinaris, immersos en un procés compartit de presa de decisions a curt termini.  
+Les metodologies més conegudes són:  
+-Kanban  
+-Scrum  
+-XP (eXtreme Programming)  

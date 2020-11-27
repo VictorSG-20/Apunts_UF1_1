@@ -73,4 +73,8 @@ Les metodologies més conegudes són:
 -Kanban  
 -Scrum  
 -XP (eXtreme Programming)  
-## Llenguatges de programació
+## Llenguatges de programació  
+Per obtenir codi binari executable tenim dues opcions compilar o interpretar.
+  Compilar: tranformar el codi en un arxiu binari llegible per la maquina. adventatges = més eficient  
+  Interpretar: Anar executant el codi dun fitxer mentre anem escribint. adventatges = més rapid de comprobar
+  

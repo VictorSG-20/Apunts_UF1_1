@@ -73,3 +73,4 @@ Les metodologies més conegudes són:
 -Kanban  
 -Scrum  
 -XP (eXtreme Programming)  
+##Llenguatges de programació

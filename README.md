@@ -86,7 +86,16 @@ Per obtenir codi binari executable tenim dues opcions compilar o interpretar.
 -Mig nivell(c)    
 -Alt nivell (java)  
 ## Historia    
-<img src="http://jamj2000.github.io/entornosdesarrollo/1/assets/simple-lang-tree.png" width="300" height="300" />   
+<img src="http://jamj2000.github.io/entornosdesarrollo/1/assets/simple-lang-tree.png" width="300" height="300" />     
+Criteris per a la selecció d'un llenguatge  
+    Camp d'aplicació  
+    experiència prèvia  
+    Eines de desenvolupament  
+    documentació disponible  
+    Base d'usuaris  
+    reusabilitat  
+    portabilitat  
+    Imposició de el client  
 
 
   
